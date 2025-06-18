@@ -1,0 +1,5 @@
+mkdir screenshots
+mv 1-getallbooks.png screenshots/
+git add screenshots/1-getallbooks.png
+git commit -m "Add Task 1 screenshot"
+git push origin main
